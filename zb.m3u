@@ -9,8 +9,8 @@ http://192.168.2.1:9988/rtp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海频道",上海都市
 http://192.168.2.1:9988/rtp/239.45.3.236:5140
 
-#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海频道",上海纪实人文
-http://192.168.2.1:9988/rtp/239.45.3.212:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",养生频道
+http://192.168.2.1:9988/rtp/239.45.1.28:5140
 
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海频道",上视东方影视
 http://192.168.2.1:9988/rtp/239.45.3.237:5140
@@ -23,6 +23,9 @@ http://192.168.2.1:9988/rtp/239.45.3.210:5140
 
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海频道",哈哈炫动
 http://192.168.2.1:9988/rtp/239.45.1.55:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",先锋乒羽
+http://192.168.2.1:9988/rtp/239.45.3.43:5140
 
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="" group-title="上海频道",都市剧场
 http://192.168.2.1:9988/rtp/239.45.3.136:5140
@@ -42,17 +45,29 @@ http://192.168.2.1:9988/rtp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海频道",游戏风云
 http://192.168.2.1:9988/rtp/239.45.3.131:5140
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",防疫频道
+http://192.168.2.1:9988/rtp/239.45.3.235:5140
+
 #EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="" group-title="上海频道",上海教育台
 http://192.168.2.1:9988/rtp/239.45.0.13:5140
 
 #EXTINF:-1 tvg-id="东方财经浦东" tvg-name="东方财经浦东" tvg-logo="" group-title="上海频道",东方财经浦东
 http://192.168.2.1:9988/rtp/239.45.0.17:5140
 
-#EXTINF:-1 group-title="上海频道",上海纪实
-http://192.168.2.1:9988/rtp/239.45.1.103:5140
+#EXTINF:-1 group-title="上海频道",BesTV人文
+http://192.168.2.1:9988/rtp/239.45.1.29:5140
+
+#EXTINF:-1 group-title="上海频道",BesTV 4k记录
+http://192.168.2.1:9988/rtp/239.45.1.10:5140
 
 #EXTINF:-1 tvg-id="上海法治天地" tvg-name="上海法治天地" tvg-logo="" group-title="上海频道",上海法治天地
 http://192.168.2.1:9988/rtp/239.45.1.46:5140
+
+#EXTINF:-1 group-title="上海频道",BesTV 4k电影
+http://192.168.2.1:9988/rtp/239.45.3.107:5140
+
+#EXTINF:-1 group-title="上海频道",BesTV 4k动画
+http://192.168.2.1:9988/rtp/239.45.1.11:5140
 
 #EXTINF:-1 group-title="上海频道",嘉定频道
 http://192.168.2.1:9988/rtp/239.45.3.185:5140
@@ -63,15 +78,6 @@ http://192.168.2.1:9988/rtp/239.45.1.118:5140#http://192.168.2.1:9988/rtp/239.45
 #EXTINF:-1 group-title="上海频道",健康人生
 http://192.168.2.1:9988/rtp/239.45.1.28:5140
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",先锋乒羽
-http://192.168.2.1:9988/rtp/239.45.3.43:5140
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",防疫频道
-http://192.168.2.1:9988/rtp/239.45.3.235:5140
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",养生频道
-http://192.168.2.1:9988/rtp/239.45.1.28:5140
-
 #EXTINF:-1 group-title="上海频道",BesTV电影介绍
 http://192.168.2.1:9988/rtp/239.45.1.15:5140
 
@@ -80,27 +86,6 @@ http://192.168.2.1:9988/rtp/239.45.3.240:5140
 
 #EXTINF:-1 group-title="上海频道",BesTV 4k测试
 http://192.168.2.1:9988/rtp/239.45.1.108:5140
-
-#EXTINF:-1 group-title="上海频道",BesTV 4k动画
-http://192.168.2.1:9988/rtp/239.45.1.11:5140
-
-#EXTINF:-1 group-title="上海频道",BesTV 4k动画2
-http://192.168.2.1:9988/rtp/239.45.1.1:5140
-
-#EXTINF:-1 group-title="上海频道",BesTV 4k电影
-http://192.168.2.1:9988/rtp/239.45.3.107:5140
-
-#EXTINF:-1 group-title="上海频道",BesTV 4k电影2
-http://192.168.2.1:9988/rtp/239.45.1.42:5140
-
-#EXTINF:-1 group-title="上海频道",BesTV 4k电影3
-http://192.168.2.1:9988/rtp/239.45.1.9:5140
-
-#EXTINF:-1 group-title="上海频道",BesTV 4k记录
-http://192.168.2.1:9988/rtp/239.45.1.10:5140
-
-#EXTINF:-1 group-title="上海频道",BesTV人文
-http://192.168.2.1:9988/rtp/239.45.1.29:5140
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 http://192.168.2.1:9988/rtp/239.45.3.145:5140
@@ -168,17 +153,14 @@ http://192.168.2.1:9988/rtp/239.45.0.40:5140
 #EXTINF:-1 tvg-id="CHC影迷" tvg-name="CHC影迷" tvg-logo="https://live.fanmingming.com/tv/CHC影迷.png" group-title="央视",CHC影迷
 http://192.168.2.1:9988/rtp/239.45.0.42:5140
 
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
-http://192.168.2.1:9988/rtp/239.45.1.72:5140
-
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
-http://192.168.2.1:9988/rtp/239.45.1.74:5140
-
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
-http://192.168.2.1:9988/rtp/239.45.1.75:5140
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="" group-title="央视",怀旧剧场
+http://192.168.2.1:9988/rtp/239.45.0.49:5140
 
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视",中数央视精品
 http://192.168.2.1:9988/rtp/239.45.1.17:5140
+
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
+http://192.168.2.1:9988/rtp/239.45.1.74:5140
 
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视",中国教育-1
 http://192.168.2.1:9988/rtp/239.45.1.125:5140
@@ -186,14 +168,14 @@ http://192.168.2.1:9988/rtp/239.45.1.125:5140
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="央视",中国教育-2
 http://192.168.2.1:9988/rtp/239.45.1.52:5140
 
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B23%E5%8F%B0.png" group-title="央视",中国教育-3
-http://[2001:250:5405:13::47]/hls/cetv3.m3u8
-
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="央视",中国教育-4
 http://192.168.2.1:9988/rtp/239.45.1.50:5140
 
-#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="" group-title="央视",怀旧剧场
-http://192.168.2.1:9988/rtp/239.45.0.49:5140
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
+http://192.168.2.1:9988/rtp/239.45.1.72:5140
+
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
+http://192.168.2.1:9988/rtp/239.45.1.75:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV央视台球" tvg-logo="" group-title="央视",CCTV央视台球
 http://192.168.2.1:9988/rtp/239.45.0.44:5140
@@ -342,24 +324,21 @@ http://192.168.2.1:9988/rtp/239.45.3.123:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",央广购物
 http://192.168.2.1:9988/rtp/239.45.3.213:5140
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",大国好物
+http://192.168.2.1:9988/rtp/239.45.1.57:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",快乐购物
 http://192.168.2.1:9988/rtp/239.45.1.53:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",优购物
 http://192.168.2.1:9988/rtp/239.45.1.114:5140#http://192.168.2.1:9988/rtp/239.45.3.186:5140
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",好享购物
 http://192.168.2.1:9988/rtp/239.45.1.253:5140
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",中央购物
 http://192.168.2.1:9988/rtp/239.45.3.79:5140
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",家有购物
 http://192.168.2.1:9988/rtp/239.45.1.43:5140
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",大国好物
-http://192.168.2.1:9988/rtp/239.45.1.57:5140
 
