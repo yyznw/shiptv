@@ -13,7 +13,7 @@ http://192.168.2.1:9988/rtp/239.45.3.236:5140
 http://192.168.2.1:9988/rtp/239.45.1.28:5140
 
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海频道",上视东方影视
-http://192.168.2.1:9988/rtp/239.45.3.237:5140
+http://192.168.2.1:9988/rtp/233.18.204.55:5140
 
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海频道",上海第一财经
 http://192.168.2.1:9988/rtp/239.45.3.211:5140
