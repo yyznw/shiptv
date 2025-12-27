@@ -61,7 +61,7 @@ http://192.168.2.1:9988/rtp/233.18.204.170:5140
 http://192.168.2.1:9988/rtp/233.18.204.170:5140
 
 #EXTINF:-1 tvg-id="上海法治天地" tvg-name="上海法治天地" tvg-logo="" group-title="上海频道",上海法治天地
-http://192.168.2.1:9988/rtp/239.45.1.46:5140
+http://192.168.2.1:9988/rtp/233.18.204.49:5140
 
 #EXTINF:-1 group-title="上海频道",BesTV 4k电影
 http://192.168.2.1:9988/rtp/233.18.204.169:5140
@@ -285,8 +285,8 @@ http://192.168.2.1:9988/rtp/233.18.204.221:5140
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
 http://192.168.2.1:9988/rtp/233.18.204.172:5140
 
-#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视",康巴卫视
-http://192.168.2.1:9988/rtp/239.45.1.251:5140
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
+http://192.168.2.1:9988/rtp/233.18.204.222:5140
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://192.168.2.1:9988/rtp/233.18.204.113:5140
@@ -297,8 +297,8 @@ http://192.168.2.1:9988/rtp/233.18.204.151:5140
 #EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷卡通.png" group-title="卫视",卡酷卡通
 http://192.168.2.1:9988/rtp/233.18.204.109:5140
 
-#EXTINF:-1 group-title="卫视",中国天气
-http://192.168.2.1:9988/rtp/239.45.3.141:5140
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视",延边卫视
+http://192.168.2.1:9988/rtp/233.18.204.155:5140
 
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京冬奥纪实.png" group-title="卫视",北京冬奥纪实
 http://192.168.2.1:9988/rtp/239.45.1.14:5140
@@ -309,20 +309,20 @@ http://192.168.2.1:9988/rtp/233.18.204.42:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="卫视",茶频道
 http://192.168.2.1:9988/rtp/233.18.204.43:5140
 
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/西藏卫视.jpg" group-title="卫视",西藏卫视
+http://cjdx.zyfqh.top:9988/rtp/233.18.204.222:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",东方购物-1HD
-http://192.168.2.1:9988/rtp/239.45.3.74:5140
+http://192.168.2.1:9988/rtp/233.18.204.61:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",东方购物-2HD
-http://192.168.2.1:9988/rtp/239.45.3.75:5140
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",东方购物-3HD
-http://192.168.2.1:9988/rtp/239.45.3.207:5140
+http://192.168.2.1:9988/rtp/233.18.204.62:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",聚鲨环球精选
 http://192.168.2.1:9988/rtp/239.45.3.123:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",央广购物
-http://192.168.2.1:9988/rtp/239.45.3.213:5140
+http://192.168.2.1:9988/rtp/233.18.204.39:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",大国好物
 http://192.168.2.1:9988/rtp/239.45.1.57:5140
@@ -334,7 +334,7 @@ http://192.168.2.1:9988/rtp/239.45.1.53:5140
 http://192.168.2.1:9988/rtp/239.45.1.114:5140#http://192.168.2.1:9988/rtp/239.45.3.186:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",好享购物
-http://192.168.2.1:9988/rtp/239.45.1.253:5140
+http://192.168.2.1:9988/rtp/233.18.204.36:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",中央购物
 http://192.168.2.1:9988/rtp/239.45.3.79:5140
